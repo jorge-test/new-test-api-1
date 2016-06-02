@@ -1,0 +1,14 @@
+{ 
+	"id" : "2120",
+	"identifierType": "DRIVERS_LICENSE",
+	"identifier": "MS86738594",
+	"firstName": "John",
+	"middleName": "L",
+	"lastName": "Smith",
+	"address" : "Main st 1, San Francisco" ,
+	"city": "Oakdale",
+	"county": "Washington",
+	"state": "MN",
+	"postalCode": "55128-3414",
+	"country": "US"
+}

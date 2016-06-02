@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "minItems": 0,
+  "items": {
+    "id": "http://example.org/employee",
+    "type": "object",
+    "properties": {
+      "id": {
+        "id": "http://example.org/employee/id",
+        "type": "string"
+      },
+      "identifierType": {
+        "id": "http://example.org/employee/identifierType",
+        "type": "string"
+      },
+      "identifier": {
+        "id": "http://example.org/employee/identifier",
+        "type": "string"
+      },
+      "firstName": {
+        "id": "http://example.org/employee/firstName",
+        "type": "string"
+      },
+      "middleName": {
+        "id": "http://example.org/employee/middleName",
+        "type": "string"
+      },
+      "lastName": {
+        "id": "http://example.org/employee/lastName",
+        "type": "string"
+      },
+      "address": {
+        "id": "http://example.org/employee/address",
+        "type": "string"
+      },
+      "city": {
+        "id": "http://example.org/employee/city",
+        "type": "string"
+      },
+      "county": {
+        "id": "http://example.org/employee/county",
+        "type": "string"
+      },
+      "state": {
+        "id": "http://example.org/employee/state",
+        "type": "string"
+      },
+      "postalCode": {
+        "id": "http://example.org/employee/postalCode",
+        "type": "string"
+      },
+      "country": {
+        "id": "http://example.org/employee/country",
+        "type": "string"
+      }
+    }
+  }
+}
